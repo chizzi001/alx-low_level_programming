@@ -1,1 +1,1 @@
-#README file for debugging project
+This directory is all about debugging in C
